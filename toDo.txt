@@ -1,13 +1,8 @@
-- make a page with 'content' w/ html
-- make all of it inject w/ javascript
-	- seperate module
-	- import to index.js 
+-[x] make a page with 'content' w/ html
+-[] two modules to handle the next two pages
 - make it use 'tabbed browsing'
 	- tab goes in seperate module 
 	- tab switch in index.js calls fun that will update the content 
+- [] add css 
 - host on vercel or something
 
-<h1>Good Eats Only</h1>
-<p>A place to eat, A place that feels like home.</p>
-<p>Located at 8077 Georgia Avenue, Silver Spring, Maryland 20910</p>
-<button>Call Now</button>
