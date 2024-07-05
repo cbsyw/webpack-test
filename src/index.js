@@ -1,4 +1,5 @@
 console.log('test');
+import '../css/styles.css';
 import { handleHome } from "../functions/handleHome";
 import { handleMenu } from "../functions/handleMenu";
 import { handleAbout } from "../functions/handleAbout";
