@@ -1,8 +1,0 @@
--[x] make a page with 'content' w/ html
--[] two modules to handle the next two pages
-- make it use 'tabbed browsing'
-	- tab goes in seperate module 
-	- tab switch in index.js calls fun that will update the content 
-- [] add css 
-- host on vercel or something
-
